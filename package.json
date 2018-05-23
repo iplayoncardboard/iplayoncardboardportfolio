@@ -1,0 +1,23 @@
+{
+  "name": "iplayoncardboardportfolio",
+  "version": "1.0.0",
+  "description": "Professional Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iplayoncardboard/iplayoncardboardportfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "awesome"
+  ],
+  "author": "Erik C Hurst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iplayoncardboard/iplayoncardboardportfolio/issues"
+  },
+  "homepage": "https://github.com/iplayoncardboard/iplayoncardboardportfolio#readme"
+}
