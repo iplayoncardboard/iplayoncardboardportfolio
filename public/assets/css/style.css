@@ -123,9 +123,8 @@ a{
     align-self: center;
 }
 
-.card > p > a {
-  color: rgba(0, 0, 0, 0.8);
-    
+.card:hover {
+    cursor: pointer;
 }
 
 
