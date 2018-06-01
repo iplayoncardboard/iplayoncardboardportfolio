@@ -84,6 +84,7 @@ a{
 .navbar {
     background-image: url(../images/paperBG.jpg);
     background-size: cover;
+    /* overflow: hidden; */
     /* -1 targets last column */
     grid-column: 1/-1;
     grid-row: 1/2;
@@ -112,7 +113,8 @@ a{
     grid-row: auto;
     /* background-image: linear-gradient(rgba(56, 56, 129, 0.678), rgba(28, 28, 223, 0.678)), url(../images/paperBG.jpg); */
     background-image: url(../images/paperBG.jpg);
-    background-size: cover;
+    /* background-size: cover; */
+    /* overflow: hidden; */
     text-align:center;
     font-weight: 700;
     font-size: 2em;
