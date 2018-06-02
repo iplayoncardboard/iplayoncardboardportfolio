@@ -225,11 +225,13 @@ a{
 #intro-card{
     grid-column: 5/8;
     grid-row: 2/4;
+    cursor: default;
 }
 #intro-card >p{
     padding-left:10px;
     text-align: left;
     font-weight: 400;
+    
 }
 
 #d20{
