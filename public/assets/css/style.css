@@ -318,6 +318,10 @@ a{
         display: none;
     }
 
+    .nav-icon{
+        display: none;
+    }
+
     .nav-link{
         font-family: 'Roboto Condensed', sans-serif;
         font-size: 1.5em
