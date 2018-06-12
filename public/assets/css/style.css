@@ -219,7 +219,7 @@ a{
 }
 
 #game-card{
-    grid-column: 2/4;
+    grid-column: 2/4;   
     grid-row: 6/7;
 }
 #intro-card{
