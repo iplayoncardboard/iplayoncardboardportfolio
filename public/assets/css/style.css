@@ -126,7 +126,7 @@ a{
     font-weight: 700;
     font-size: 2em;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5);
-    font-family: 'Sedgwick Ave Display', cursive;
+    /* font-family: 'Sedgwick Ave Display', cursive; */
     align-self: center;
 }
 
