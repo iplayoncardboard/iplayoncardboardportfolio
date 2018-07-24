@@ -3,7 +3,7 @@ html, body{
 }
 body{
     font-family: 'Roboto Condensed', sans-serif;
-    font-family: 'Sedgwick Ave Display', cursive;
+    /* font-family: 'Sedgwick Ave Display', cursive; */
     margin:0px;
     background-image: url(../images/cardboard2.jpg);
     display: grid;
